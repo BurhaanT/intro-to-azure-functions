@@ -1,4 +1,5 @@
-﻿using System.Threading.Tasks;
+﻿using AzureIntro.Models;
+using System.Threading.Tasks;
 
 namespace AzureIntro.Payments
 {

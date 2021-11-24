@@ -1,6 +1,6 @@
 using System;
 
-namespace AzureIntro
+namespace AzureIntro.Models
 {
     public class PaymentConfirmation
     {
